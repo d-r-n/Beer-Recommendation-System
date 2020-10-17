@@ -1,2 +1,1 @@
-# Beer-Recommendation-System
-Crowdsourced recommendation system using reviews from beeradvocate.com
+# University of Texas at Austin MSBA '21
