@@ -1,3 +1,5 @@
 ## Statistical Arbitrage Trading Algorithm
 
-# this is a project I did for my Quantitative Investment Strategies course
+This is a project I did for my Quantitative Investment Strategies course
+
+* All data from CRSP [2007-2019]
